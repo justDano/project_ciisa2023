@@ -11,6 +11,6 @@ The technologies used in this project is:
 Developers participating in this level of the project.
 > Daniel Munoz @justDano
 >
-> Luis Rojas Gonzalez
+> Luis Rojas Gonzalez @LuisRojasGG
 
 
